@@ -1,0 +1,2 @@
+# building_genai_solutions_udacity_course
+Building Generative AI Solutions course material
